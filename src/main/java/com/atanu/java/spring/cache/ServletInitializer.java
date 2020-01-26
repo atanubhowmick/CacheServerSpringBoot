@@ -1,8 +1,13 @@
-package com.atanu.java.spring.offersvc;
+package com.atanu.java.spring.cache;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
+/**
+ * 
+ * @author Atanu Bhowmick
+ *
+ */
 public class ServletInitializer extends SpringBootServletInitializer {
 
 	@Override
